@@ -1,0 +1,495 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{29406CFA-8CE1-4694-B801-D70D6B880A6F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>VKR_BaranovDO</RootNamespace>
+    <AssemblyName>VKR_BaranovDO</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>M:\SetupVkr\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>8</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>041C6686A43CB48530049E79A8249252AE0E372F</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>VKR_BaranovDO_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.17.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddBrand.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddBrand.Designer.cs">
+      <DependentUpon>AddBrand.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddClient.Designer.cs">
+      <DependentUpon>AddClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddCompeletedWork.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddCompeletedWork.Designer.cs">
+      <DependentUpon>AddCompeletedWork.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddGroup.Designer.cs">
+      <DependentUpon>AddGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddModel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddModel.Designer.cs">
+      <DependentUpon>AddModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddMoving.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddMoving.Designer.cs">
+      <DependentUpon>AddMoving.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddOrder.Designer.cs">
+      <DependentUpon>AddOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddPosting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddPosting.Designer.cs">
+      <DependentUpon>AddPosting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddProduct.Designer.cs">
+      <DependentUpon>AddProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddReturnSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddReturnSupplier.Designer.cs">
+      <DependentUpon>AddReturnSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddTovar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddTovar.Designer.cs">
+      <DependentUpon>AddTovar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddTovars.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddTovars.Designer.cs">
+      <DependentUpon>AddTovars.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddWriteoffgoods.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddWriteoffgoods.Designer.cs">
+      <DependentUpon>AddWriteoffgoods.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangePassword.Designer.cs">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clients.Designer.cs">
+      <DependentUpon>Clients.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CompletedWork.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompletedWork.Designer.cs">
+      <DependentUpon>CompletedWork.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditCompletedWork.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditCompletedWork.Designer.cs">
+      <DependentUpon>EditCompletedWork.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Executors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Executors.Designer.cs">
+      <DependentUpon>Executors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LookMoving.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LookMoving.Designer.cs">
+      <DependentUpon>LookMoving.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LookPosting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LookPosting.Designer.cs">
+      <DependentUpon>LookPosting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LookReturnSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LookReturnSupplier.Designer.cs">
+      <DependentUpon>LookReturnSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LookWriteoffgoods.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LookWriteoffgoods.Designer.cs">
+      <DependentUpon>LookWriteoffgoods.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Managers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Managers.Designer.cs">
+      <DependentUpon>Managers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Orders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Orders.Designer.cs">
+      <DependentUpon>Orders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration.Designer.cs">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports.Designer.cs">
+      <DependentUpon>Reports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelectClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectClient.Designer.cs">
+      <DependentUpon>SelectClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelectCountAndPrice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectCountAndPrice.Designer.cs">
+      <DependentUpon>SelectCountAndPrice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelectCountTovar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectCountTovar.Designer.cs">
+      <DependentUpon>SelectCountTovar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelectGoodsInStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectGoodsInStock.Designer.cs">
+      <DependentUpon>SelectGoodsInStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelectProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectProduct.Designer.cs">
+      <DependentUpon>SelectProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelectTovar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectTovar.Designer.cs">
+      <DependentUpon>SelectTovar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Suppliers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Suppliers.Designer.cs">
+      <DependentUpon>Suppliers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users.Designer.cs">
+      <DependentUpon>Users.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WaitingTovar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WaitingTovar.Designer.cs">
+      <DependentUpon>WaitingTovar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Warehouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Warehouse.Designer.cs">
+      <DependentUpon>Warehouse.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddBrand.resx">
+      <DependentUpon>AddBrand.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddClient.resx">
+      <DependentUpon>AddClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddCompeletedWork.resx">
+      <DependentUpon>AddCompeletedWork.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddGroup.resx">
+      <DependentUpon>AddGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddModel.resx">
+      <DependentUpon>AddModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddMoving.resx">
+      <DependentUpon>AddMoving.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddOrder.resx">
+      <DependentUpon>AddOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddPosting.resx">
+      <DependentUpon>AddPosting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddProduct.resx">
+      <DependentUpon>AddProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddReturnSupplier.resx">
+      <DependentUpon>AddReturnSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddTovar.resx">
+      <DependentUpon>AddTovar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddTovars.resx">
+      <DependentUpon>AddTovars.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddWriteoffgoods.resx">
+      <DependentUpon>AddWriteoffgoods.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangePassword.resx">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clients.resx">
+      <DependentUpon>Clients.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CompletedWork.resx">
+      <DependentUpon>CompletedWork.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditCompletedWork.resx">
+      <DependentUpon>EditCompletedWork.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Executors.resx">
+      <DependentUpon>Executors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LookMoving.resx">
+      <DependentUpon>LookMoving.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LookPosting.resx">
+      <DependentUpon>LookPosting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LookReturnSupplier.resx">
+      <DependentUpon>LookReturnSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LookWriteoffgoods.resx">
+      <DependentUpon>LookWriteoffgoods.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Managers.resx">
+      <DependentUpon>Managers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Orders.resx">
+      <DependentUpon>Orders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Registration.resx">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports.resx">
+      <DependentUpon>Reports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectClient.resx">
+      <DependentUpon>SelectClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectCountAndPrice.resx">
+      <DependentUpon>SelectCountAndPrice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectCountTovar.resx">
+      <DependentUpon>SelectCountTovar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectGoodsInStock.resx">
+      <DependentUpon>SelectGoodsInStock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectProduct.resx">
+      <DependentUpon>SelectProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectTovar.resx">
+      <DependentUpon>SelectTovar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Suppliers.resx">
+      <DependentUpon>Suppliers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users.resx">
+      <DependentUpon>Users.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WaitingTovar.resx">
+      <DependentUpon>WaitingTovar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Warehouse.resx">
+      <DependentUpon>Warehouse.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="VKR_BaranovDO_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Database\Database.csproj">
+      <Project>{507b7e63-e5e4-4770-bf6a-561589728c92}</Project>
+      <Name>Database</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 и x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Word">
+      <Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>6</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

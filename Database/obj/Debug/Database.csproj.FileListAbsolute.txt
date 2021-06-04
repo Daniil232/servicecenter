@@ -1,0 +1,204 @@
+C:\Users\User\Desktop\ClientAppSql\Database\bin\Debug\Database.dll
+C:\Users\User\Desktop\ClientAppSql\Database\bin\Debug\Database.pdb
+C:\Users\User\Desktop\ClientAppSql\Database\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\ClientAppSql\Database\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\ClientAppSql\Database\bin\Debug\Renci.SshNet.dll
+C:\Users\User\Desktop\ClientAppSql\Database\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\ClientAppSql\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ClientAppSql\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ClientAppSql\Database\obj\Debug\Database.csproj.CopyComplete
+C:\Users\User\Desktop\ClientAppSql\Database\obj\Debug\Database.dll
+C:\Users\User\Desktop\ClientAppSql\Database\obj\Debug\Database.pdb
+C:\Users\User\Desktop\ClientAppMysql\Database\bin\Debug\Database.dll
+C:\Users\User\Desktop\ClientAppMysql\Database\bin\Debug\Database.pdb
+C:\Users\User\Desktop\ClientAppMysql\Database\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\ClientAppMysql\Database\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\ClientAppMysql\Database\bin\Debug\Renci.SshNet.dll
+C:\Users\User\Desktop\ClientAppMysql\Database\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\ClientAppMysql\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ClientAppMysql\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ClientAppMysql\Database\obj\Debug\Database.csproj.CopyComplete
+C:\Users\User\Desktop\ClientAppMysql\Database\obj\Debug\Database.dll
+C:\Users\User\Desktop\ClientAppMysql\Database\obj\Debug\Database.pdb
+C:\Users\10181082\Desktop\ClientAppMysql\Database\bin\Debug\Database.dll
+C:\Users\10181082\Desktop\ClientAppMysql\Database\bin\Debug\Database.pdb
+C:\Users\10181082\Desktop\ClientAppMysql\Database\bin\Debug\MySql.Data.dll
+C:\Users\10181082\Desktop\ClientAppMysql\Database\bin\Debug\Google.Protobuf.dll
+C:\Users\10181082\Desktop\ClientAppMysql\Database\bin\Debug\Renci.SshNet.dll
+C:\Users\10181082\Desktop\ClientAppMysql\Database\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\10181082\Desktop\ClientAppMysql\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\10181082\Desktop\ClientAppMysql\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\10181082\Desktop\ClientAppMysql\Database\obj\Debug\Database.csproj.CopyComplete
+C:\Users\10181082\Desktop\ClientAppMysql\Database\obj\Debug\Database.dll
+C:\Users\10181082\Desktop\ClientAppMysql\Database\obj\Debug\Database.pdb
+F:\Учебная практика\LibraryApp\Database\bin\Debug\Database.dll
+F:\Учебная практика\LibraryApp\Database\bin\Debug\Database.pdb
+F:\Учебная практика\LibraryApp\Database\bin\Debug\MySql.Data.dll
+F:\Учебная практика\LibraryApp\Database\bin\Debug\Google.Protobuf.dll
+F:\Учебная практика\LibraryApp\Database\bin\Debug\Renci.SshNet.dll
+F:\Учебная практика\LibraryApp\Database\bin\Debug\BouncyCastle.Crypto.dll
+F:\Учебная практика\LibraryApp\Database\bin\Debug\MySql.Data.xml
+F:\Учебная практика\LibraryApp\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+F:\Учебная практика\LibraryApp\Database\obj\Debug\Database.csproj.CopyComplete
+F:\Учебная практика\LibraryApp\Database\obj\Debug\Database.dll
+F:\Учебная практика\LibraryApp\Database\obj\Debug\Database.pdb
+D:\Учебная практика\LibraryApp\Database\bin\Debug\Database.dll
+D:\Учебная практика\LibraryApp\Database\bin\Debug\Database.pdb
+D:\Учебная практика\LibraryApp\Database\bin\Debug\Google.Protobuf.dll
+D:\Учебная практика\LibraryApp\Database\bin\Debug\Renci.SshNet.dll
+D:\Учебная практика\LibraryApp\Database\bin\Debug\BouncyCastle.Crypto.dll
+D:\Учебная практика\LibraryApp\Database\bin\Debug\MySql.Data.xml
+D:\Учебная практика\LibraryApp\Database\obj\Debug\Database.csprojAssemblyReference.cache
+D:\Учебная практика\LibraryApp\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+D:\Учебная практика\LibraryApp\Database\obj\Debug\Database.csproj.CopyComplete
+D:\Учебная практика\LibraryApp\Database\obj\Debug\Database.dll
+D:\Учебная практика\LibraryApp\Database\obj\Debug\Database.pdb
+F:\Учебная практика\LibraryApp\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\Даниил\Desktop\LibraryApp\Database\bin\Debug\Database.dll
+C:\Users\Даниил\Desktop\LibraryApp\Database\bin\Debug\Database.pdb
+C:\Users\Даниил\Desktop\LibraryApp\Database\bin\Debug\MySql.Data.dll
+C:\Users\Даниил\Desktop\LibraryApp\Database\bin\Debug\Google.Protobuf.dll
+C:\Users\Даниил\Desktop\LibraryApp\Database\bin\Debug\Renci.SshNet.dll
+C:\Users\Даниил\Desktop\LibraryApp\Database\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Даниил\Desktop\LibraryApp\Database\bin\Debug\MySql.Data.xml
+C:\Users\Даниил\Desktop\LibraryApp\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\Даниил\Desktop\LibraryApp\Database\obj\Debug\Database.csproj.CopyComplete
+C:\Users\Даниил\Desktop\LibraryApp\Database\obj\Debug\Database.dll
+C:\Users\Даниил\Desktop\LibraryApp\Database\obj\Debug\Database.pdb
+C:\Users\Даниил\Desktop\БД\LibraryApp\Database\bin\Debug\Database.dll
+C:\Users\Даниил\Desktop\БД\LibraryApp\Database\bin\Debug\Database.pdb
+C:\Users\Даниил\Desktop\БД\LibraryApp\Database\bin\Debug\MySql.Data.dll
+C:\Users\Даниил\Desktop\БД\LibraryApp\Database\bin\Debug\Google.Protobuf.dll
+C:\Users\Даниил\Desktop\БД\LibraryApp\Database\bin\Debug\Renci.SshNet.dll
+C:\Users\Даниил\Desktop\БД\LibraryApp\Database\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Даниил\Desktop\БД\LibraryApp\Database\bin\Debug\MySql.Data.xml
+C:\Users\Даниил\Desktop\БД\LibraryApp\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\Даниил\Desktop\БД\LibraryApp\Database\obj\Debug\Database.csproj.CopyComplete
+C:\Users\Даниил\Desktop\БД\LibraryApp\Database\obj\Debug\Database.dll
+C:\Users\Даниил\Desktop\БД\LibraryApp\Database\obj\Debug\Database.pdb
+C:\Users\Даниил\source\repos\Forestry\Database\bin\Debug\Database.dll
+C:\Users\Даниил\source\repos\Forestry\Database\bin\Debug\Database.pdb
+C:\Users\Даниил\source\repos\Forestry\Database\bin\Debug\MySql.Data.dll
+C:\Users\Даниил\source\repos\Forestry\Database\bin\Debug\Google.Protobuf.dll
+C:\Users\Даниил\source\repos\Forestry\Database\bin\Debug\Renci.SshNet.dll
+C:\Users\Даниил\source\repos\Forestry\Database\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Даниил\source\repos\Forestry\Database\bin\Debug\MySql.Data.xml
+C:\Users\Даниил\source\repos\Forestry\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\Даниил\source\repos\Forestry\Database\obj\Debug\Database.csproj.CopyComplete
+C:\Users\Даниил\source\repos\Forestry\Database\obj\Debug\Database.dll
+C:\Users\Даниил\source\repos\Forestry\Database\obj\Debug\Database.pdb
+C:\Users\Даниил\Desktop\Работа папа\БД\Forestry V1.2\Database\bin\Debug\Database.dll
+C:\Users\Даниил\Desktop\Работа папа\БД\Forestry V1.2\Database\bin\Debug\Database.pdb
+C:\Users\Даниил\Desktop\Работа папа\БД\Forestry V1.2\Database\bin\Debug\MySql.Data.dll
+C:\Users\Даниил\Desktop\Работа папа\БД\Forestry V1.2\Database\bin\Debug\Google.Protobuf.dll
+C:\Users\Даниил\Desktop\Работа папа\БД\Forestry V1.2\Database\bin\Debug\Renci.SshNet.dll
+C:\Users\Даниил\Desktop\Работа папа\БД\Forestry V1.2\Database\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Даниил\Desktop\Работа папа\БД\Forestry V1.2\Database\bin\Debug\MySql.Data.xml
+C:\Users\Даниил\Desktop\Работа папа\БД\Forestry V1.2\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\Даниил\Desktop\Работа папа\БД\Forestry V1.2\Database\obj\Debug\Database.csproj.CopyComplete
+C:\Users\Даниил\Desktop\Работа папа\БД\Forestry V1.2\Database\obj\Debug\Database.dll
+C:\Users\Даниил\Desktop\Работа папа\БД\Forestry V1.2\Database\obj\Debug\Database.pdb
+C:\Users\Даниил\Desktop\Работа Папа\БД\Forestry V2.0\Database\bin\Debug\Database.dll
+C:\Users\Даниил\Desktop\Работа Папа\БД\Forestry V2.0\Database\bin\Debug\Database.pdb
+C:\Users\Даниил\Desktop\Работа Папа\БД\Forestry V2.0\Database\bin\Debug\MySql.Data.dll
+C:\Users\Даниил\Desktop\Работа Папа\БД\Forestry V2.0\Database\bin\Debug\Google.Protobuf.dll
+C:\Users\Даниил\Desktop\Работа Папа\БД\Forestry V2.0\Database\bin\Debug\Renci.SshNet.dll
+C:\Users\Даниил\Desktop\Работа Папа\БД\Forestry V2.0\Database\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Даниил\Desktop\Работа Папа\БД\Forestry V2.0\Database\bin\Debug\MySql.Data.xml
+C:\Users\Даниил\Desktop\Работа Папа\БД\Forestry V2.0\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\Даниил\Desktop\Работа Папа\БД\Forestry V2.0\Database\obj\Debug\Database.csproj.CopyComplete
+C:\Users\Даниил\Desktop\Работа Папа\БД\Forestry V2.0\Database\obj\Debug\Database.dll
+C:\Users\Даниил\Desktop\Работа Папа\БД\Forestry V2.0\Database\obj\Debug\Database.pdb
+C:\Users\Даниил\Desktop\Работа Папа\БД\Forestry V2.2\Forestry V2.1\Database\bin\Debug\Database.dll
+C:\Users\Даниил\Desktop\Работа Папа\БД\Forestry V2.2\Forestry V2.1\Database\bin\Debug\Database.pdb
+C:\Users\Даниил\Desktop\Работа Папа\БД\Forestry V2.2\Forestry V2.1\Database\bin\Debug\MySql.Data.dll
+C:\Users\Даниил\Desktop\Работа Папа\БД\Forestry V2.2\Forestry V2.1\Database\bin\Debug\Google.Protobuf.dll
+C:\Users\Даниил\Desktop\Работа Папа\БД\Forestry V2.2\Forestry V2.1\Database\bin\Debug\Renci.SshNet.dll
+C:\Users\Даниил\Desktop\Работа Папа\БД\Forestry V2.2\Forestry V2.1\Database\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Даниил\Desktop\Работа Папа\БД\Forestry V2.2\Forestry V2.1\Database\bin\Debug\MySql.Data.xml
+C:\Users\Даниил\Desktop\Работа Папа\БД\Forestry V2.2\Forestry V2.1\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\Даниил\Desktop\Работа Папа\БД\Forestry V2.2\Forestry V2.1\Database\obj\Debug\Database.csproj.CopyComplete
+C:\Users\Даниил\Desktop\Работа Папа\БД\Forestry V2.2\Forestry V2.1\Database\obj\Debug\Database.dll
+C:\Users\Даниил\Desktop\Работа Папа\БД\Forestry V2.2\Forestry V2.1\Database\obj\Debug\Database.pdb
+C:\Users\Даниил\Desktop\Forestry V2.1\Database\bin\Debug\Database.dll
+C:\Users\Даниил\Desktop\Forestry V2.1\Database\bin\Debug\Database.pdb
+C:\Users\Даниил\Desktop\Forestry V2.1\Database\bin\Debug\MySql.Data.dll
+C:\Users\Даниил\Desktop\Forestry V2.1\Database\bin\Debug\Google.Protobuf.dll
+C:\Users\Даниил\Desktop\Forestry V2.1\Database\bin\Debug\Renci.SshNet.dll
+C:\Users\Даниил\Desktop\Forestry V2.1\Database\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Даниил\Desktop\Forestry V2.1\Database\bin\Debug\MySql.Data.xml
+C:\Users\Даниил\Desktop\Forestry V2.1\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\Даниил\Desktop\Forestry V2.1\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\Desktop\Forestry V2.1\Database\obj\Debug\Database.csproj.CopyComplete
+C:\Users\Даниил\Desktop\Forestry V2.1\Database\obj\Debug\Database.dll
+C:\Users\Даниил\Desktop\Forestry V2.1\Database\obj\Debug\Database.pdb
+C:\Users\Даниил\Desktop\Forestry\Database\bin\Debug\Database.dll
+C:\Users\Даниил\Desktop\Forestry\Database\bin\Debug\Database.pdb
+C:\Users\Даниил\Desktop\Forestry\Database\bin\Debug\MySql.Data.dll
+C:\Users\Даниил\Desktop\Forestry\Database\bin\Debug\Google.Protobuf.dll
+C:\Users\Даниил\Desktop\Forestry\Database\bin\Debug\Renci.SshNet.dll
+C:\Users\Даниил\Desktop\Forestry\Database\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Даниил\Desktop\Forestry\Database\bin\Debug\MySql.Data.xml
+C:\Users\Даниил\Desktop\Forestry\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\Даниил\Desktop\Forestry\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\Desktop\Forestry\Database\obj\Debug\Database.csproj.CopyComplete
+C:\Users\Даниил\Desktop\Forestry\Database\obj\Debug\Database.dll
+C:\Users\Даниил\Desktop\Forestry\Database\obj\Debug\Database.pdb
+C:\Users\Даниил\source\repos\VKR_BaranovDO\Database\bin\Debug\Database.dll
+C:\Users\Даниил\source\repos\VKR_BaranovDO\Database\bin\Debug\Database.pdb
+C:\Users\Даниил\source\repos\VKR_BaranovDO\Database\bin\Debug\MySql.Data.dll
+C:\Users\Даниил\source\repos\VKR_BaranovDO\Database\bin\Debug\Google.Protobuf.dll
+C:\Users\Даниил\source\repos\VKR_BaranovDO\Database\bin\Debug\Renci.SshNet.dll
+C:\Users\Даниил\source\repos\VKR_BaranovDO\Database\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Даниил\source\repos\VKR_BaranovDO\Database\bin\Debug\MySql.Data.xml
+C:\Users\Даниил\source\repos\VKR_BaranovDO\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\Даниил\source\repos\VKR_BaranovDO\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\source\repos\VKR_BaranovDO\Database\obj\Debug\Database.csproj.CopyComplete
+C:\Users\Даниил\source\repos\VKR_BaranovDO\Database\obj\Debug\Database.dll
+C:\Users\Даниил\source\repos\VKR_BaranovDO\Database\obj\Debug\Database.pdb
+C:\Users\Daniil\Desktop\VKR_BaranovDO\Database\bin\Debug\Database.dll
+C:\Users\Daniil\Desktop\VKR_BaranovDO\Database\bin\Debug\Database.pdb
+C:\Users\Daniil\Desktop\VKR_BaranovDO\Database\bin\Debug\Google.Protobuf.dll
+C:\Users\Daniil\Desktop\VKR_BaranovDO\Database\bin\Debug\Renci.SshNet.dll
+C:\Users\Daniil\Desktop\VKR_BaranovDO\Database\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Daniil\Desktop\VKR_BaranovDO\Database\bin\Debug\MySql.Data.xml
+C:\Users\Daniil\Desktop\VKR_BaranovDO\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\Daniil\Desktop\VKR_BaranovDO\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\VKR_BaranovDO\Database\obj\Debug\Database.csproj.CopyComplete
+C:\Users\Daniil\Desktop\VKR_BaranovDO\Database\obj\Debug\Database.dll
+C:\Users\Daniil\Desktop\VKR_BaranovDO\Database\obj\Debug\Database.pdb
+M:\VKR_BaranovDO\Database\bin\Debug\Database.dll
+M:\VKR_BaranovDO\Database\bin\Debug\Database.pdb
+M:\VKR_BaranovDO\Database\bin\Debug\MySql.Data.dll
+M:\VKR_BaranovDO\Database\bin\Debug\Google.Protobuf.dll
+M:\VKR_BaranovDO\Database\bin\Debug\Renci.SshNet.dll
+M:\VKR_BaranovDO\Database\bin\Debug\BouncyCastle.Crypto.dll
+M:\VKR_BaranovDO\Database\bin\Debug\MySql.Data.xml
+M:\VKR_BaranovDO\Database\obj\Debug\Database.csprojAssemblyReference.cache
+M:\VKR_BaranovDO\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+M:\VKR_BaranovDO\Database\obj\Debug\Database.csproj.CopyComplete
+M:\VKR_BaranovDO\Database\obj\Debug\Database.dll
+M:\VKR_BaranovDO\Database\obj\Debug\Database.pdb
+C:\Users\Даниил\Desktop\VKR_BaranovDO\Database\bin\Debug\Database.dll
+C:\Users\Даниил\Desktop\VKR_BaranovDO\Database\bin\Debug\Database.pdb
+C:\Users\Даниил\Desktop\VKR_BaranovDO\Database\bin\Debug\MySql.Data.dll
+C:\Users\Даниил\Desktop\VKR_BaranovDO\Database\bin\Debug\Google.Protobuf.dll
+C:\Users\Даниил\Desktop\VKR_BaranovDO\Database\bin\Debug\Renci.SshNet.dll
+C:\Users\Даниил\Desktop\VKR_BaranovDO\Database\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Даниил\Desktop\VKR_BaranovDO\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\Даниил\Desktop\VKR_BaranovDO\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\Desktop\VKR_BaranovDO\Database\obj\Debug\Database.csproj.CopyComplete
+C:\Users\Даниил\Desktop\VKR_BaranovDO\Database\obj\Debug\Database.dll
+C:\Users\Даниил\Desktop\VKR_BaranovDO\Database\obj\Debug\Database.pdb
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\Database\bin\Debug\Database.dll
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\Database\bin\Debug\Database.pdb
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\Database\bin\Debug\MySql.Data.dll
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\Database\bin\Debug\Google.Protobuf.dll
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\Database\bin\Debug\Renci.SshNet.dll
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\Database\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\Database\bin\Debug\MySql.Data.xml
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\Database\obj\Debug\Database.csproj.CopyComplete
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\Database\obj\Debug\Database.dll
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\Database\obj\Debug\Database.pdb

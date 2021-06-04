@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="VKR_BaranovDO.exe" version="1.0.0.7" publicKeyToken="49582dc20b6e2450" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="VKR_BaranovDO" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="VKR_BaranovDO.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Параметры манифеста UAC
+          Если нужно изменить уровень контроля учетных записей Windows, замените 
+          узел requestedExecutionLevel одним из следующих значений.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+        Если нужно использовать виртуализацию файлов и реестра для обратной
+             совместимости, удалите узел requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BouncyCastle.Crypto.dll" size="2453504">
+      <assemblyIdentity name="BouncyCastle.Crypto" version="1.8.3.0" publicKeyToken="0E99375E54769942" language="neutral" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>SikSNsUBe/37MPrUw9tNBhTDYsS1NAnGELEtSD17JuY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Database.dll" size="8192">
+      <assemblyIdentity name="Database" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>PblNkBJiAjVEgbW33vIkOEavk1v+7K4uFiiB68enPdg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Google.Protobuf.dll" size="298496">
+      <assemblyIdentity name="Google.Protobuf" version="3.6.1.0" publicKeyToken="A7D26565BAC4D604" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>tmCHIa/sZfxfbRML4V98ONw3aJn73tQolsd5EaiejRM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MySql.Data.dll" size="766464">
+      <assemblyIdentity name="MySql.Data" version="8.0.17.0" publicKeyToken="C5687FC88969C44D" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>SmJOuO/8VU76YyJYVBywRnRy+3aX+dka7aastpwKRek=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Renci.SshNet.dll" size="422912">
+      <assemblyIdentity name="Renci.SshNet" version="2016.1.0.0" publicKeyToken="1CEE9F8BDE3DB106" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>9jFe0UZDj3cCAzaBBD+P6WkO05oqvJoZIkZCSUSjono=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="VKR_BaranovDO.exe" size="219056">
+      <assemblyIdentity name="VKR_BaranovDO" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>REPX01Af3ui2QxLRJMTBZqROdsGmJyXZXuj7tr2fjGE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="VKR_BaranovDO.exe.config" size="186">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>1NgAxCSw4ibTXzWVy7D6Rw60Qih4Dn37KvGhG5Ora/s=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DANIIL\Даниил" issuerKeyHash="7db1b0900c0e7944cb5258695bae5dcfbbc29457" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>LpmUee4LfbC066Dxfx1DQmh+8HW1Byh/iTqWHym511U=</DigestValue></Reference></SignedInfo><SignatureValue>S3F4SPS3GYbG+fiHqagBgj6OGXZ+tDGnXF0wbHhSiASKv+vnX7K0Zb5+JyC1N+Mm05GIRMaG8EFQn3lhK8KDjFSKTcSZfS2fsjtm6tMdGTkHhKXmd+LfnRw40kw7jeA9OYD/YNPjfebl8FzGRiG6IDj2Bn2vUIWg+QMK4YizyC4=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>7+tZkLTTQVBR6cWYiEOjIkbnkGbCATqHwlRCMcegAcB8nfhf0FegVWxygc6/aYirWBz0rNOa5lddYMdNe9X6h11D2kcoSWqLWZEXskKkstXK3NBRJCykCHcZ7c3Zwl0s3euwbnCmhLVu5dRH/DTy+KehDM5qC3AJsWSDxixxiDE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="55d7b9291f963a897f2807b575f07e6842431d7ff1a0ebb4b07d0bee7994992e" Description="" Url=""><as:assemblyIdentity name="VKR_BaranovDO.exe" version="1.0.0.7" publicKeyToken="49582dc20b6e2450" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DANIIL\Даниил</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>bT69uWTwRzAspZOTiuIoWpSYXQ4aBEyTsY6y/uaVE+o=</DigestValue></Reference></SignedInfo><SignatureValue>4L8vDmuQjixmo6qG1+nwjcVQpbYtq5SWKWaGqRLOjbWEnuRql0a3iCeB/f/mGZcwC2qRs+0943o86f7CFEhdLlWPzuHgAqwP1gCVmgV9w6JsjNsV0Jz7uVrrNui9zRmrkZyC1nKc5q9mdP7HmDyTLwHTg9U8plHX387AEjyihBA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>7+tZkLTTQVBR6cWYiEOjIkbnkGbCATqHwlRCMcegAcB8nfhf0FegVWxygc6/aYirWBz0rNOa5lddYMdNe9X6h11D2kcoSWqLWZEXskKkstXK3NBRJCykCHcZ7c3Zwl0s3euwbnCmhLVu5dRH/DTy+KehDM5qC3AJsWSDxixxiDE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBzTCCATagAwIBAgIQGAVkyFsPcbJFZx8X6zNCtzANBgkqhkiG9w0BAQsFADAlMSMwIQYDVQQDHhoARABBAE4ASQBJAEwAXAQUBDAEPQQ4BDgEOzAeFw0yMTAzMjMxMDM0NTlaFw0yMjAzMjMxNjM0NTlaMCUxIzAhBgNVBAMeGgBEAEEATgBJAEkATABcBBQEMAQ9BDgEOAQ7MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDv61mQtNNBUFHpxZiIQ6MiRueQZsIBOofCVEIxx6ABwHyd+F/QV6BVbHKBzr9piKtYHPSs05rmV11gx0171fqHXUPaRyhJaotZkReyQqSy1crc0FEkLKQIdxntzdnCXSzd67BucKaEtW7l1Ef8NPL4p6EMzmoLcAmxZIPGLHGIMQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAD4NH1R1U+cY84T4Xz/YnZeQZ7PnW7uOQgW20oELlRcceWJPBg5VZ9X84g1s2M81+rurbWSOJ/e3hEuHq9J/JM2s6WYSG7mKoD25sUx1i9z1IwqkqTZbsT5RdcwHqIUBvquQhd5FBdnIIqKY0eswxh/O+Kdd1jlSN41bGsuhQaCO</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

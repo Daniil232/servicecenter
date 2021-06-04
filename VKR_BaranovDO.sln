@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VKR_BaranovDO", "VKR_BaranovDO\VKR_BaranovDO.csproj", "{29406CFA-8CE1-4694-B801-D70D6B880A6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database", "Database\Database.csproj", "{507B7E63-E5E4-4770-BF6A-561589728C92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29406CFA-8CE1-4694-B801-D70D6B880A6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29406CFA-8CE1-4694-B801-D70D6B880A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29406CFA-8CE1-4694-B801-D70D6B880A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29406CFA-8CE1-4694-B801-D70D6B880A6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{507B7E63-E5E4-4770-BF6A-561589728C92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{507B7E63-E5E4-4770-BF6A-561589728C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{507B7E63-E5E4-4770-BF6A-561589728C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{507B7E63-E5E4-4770-BF6A-561589728C92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48A03241-C67C-4E80-9DBA-330908747B80}
+	EndGlobalSection
+EndGlobal

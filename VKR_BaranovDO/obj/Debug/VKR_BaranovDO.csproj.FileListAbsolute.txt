@@ -1,0 +1,356 @@
+C:\Users\Даниил\source\repos\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\VKR_BaranovDO.exe.config
+C:\Users\Даниил\source\repos\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\VKR_BaranovDO.exe
+C:\Users\Даниил\source\repos\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\VKR_BaranovDO.pdb
+C:\Users\Даниил\source\repos\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.csprojAssemblyReference.cache
+C:\Users\Даниил\source\repos\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Properties.Resources.resources
+C:\Users\Даниил\source\repos\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.csproj.GenerateResource.cache
+C:\Users\Даниил\source\repos\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\source\repos\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.exe
+C:\Users\Даниил\source\repos\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.pdb
+C:\Users\Даниил\source\repos\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Login.resources
+C:\Users\Даниил\source\repos\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Registration.resources
+C:\Users\Даниил\source\repos\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\Database.dll
+C:\Users\Даниил\source\repos\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\MySql.Data.dll
+C:\Users\Даниил\source\repos\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\Google.Protobuf.dll
+C:\Users\Даниил\source\repos\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\Renci.SshNet.dll
+C:\Users\Даниил\source\repos\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Даниил\source\repos\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\Database.pdb
+C:\Users\Даниил\source\repos\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\MySql.Data.xml
+C:\Users\Даниил\source\repos\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.csproj.CopyComplete
+C:\Users\Даниил\source\repos\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Orders.resources
+C:\Users\Даниил\source\repos\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Clients.resources
+C:\Users\Даниил\source\repos\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.MainForm.resources
+C:\Users\Даниил\source\repos\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddClient.resources
+C:\Users\Даниил\source\repos\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Warehouse.resources
+C:\Users\Даниил\source\repos\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Suppliers.resources
+C:\Users\Даниил\source\repos\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddProduct.resources
+C:\Users\Даниил\source\repos\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddPosting.resources
+C:\Users\Даниил\source\repos\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddTovar.resources
+C:\Users\Даниил\source\repos\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddOrder.resources
+C:\Users\Даниил\source\repos\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectClient.resources
+C:\Users\Даниил\source\repos\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectProduct.resources
+C:\Users\Даниил\source\repos\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddCompeletedWork.resources
+C:\Users\Даниил\source\repos\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.EditCompletedWork.resources
+M:\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\VKR_BaranovDO.exe.config
+M:\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\VKR_BaranovDO.exe.manifest
+M:\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\VKR_BaranovDO.application
+M:\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\VKR_BaranovDO.exe
+M:\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\VKR_BaranovDO.pdb
+M:\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\Database.dll
+M:\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\MySql.Data.dll
+M:\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\Google.Protobuf.dll
+M:\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\Renci.SshNet.dll
+M:\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\BouncyCastle.Crypto.dll
+M:\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\Database.pdb
+M:\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\MySql.Data.xml
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.csprojAssemblyReference.cache
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddClient.resources
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddCompeletedWork.resources
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddOrder.resources
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddPosting.resources
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddProduct.resources
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddTovar.resources
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Clients.resources
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.EditCompletedWork.resources
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Login.resources
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.MainForm.resources
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Orders.resources
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Properties.Resources.resources
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Registration.resources
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectClient.resources
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectProduct.resources
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Suppliers.resources
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Warehouse.resources
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.csproj.GenerateResource.cache
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.csproj.CoreCompileInputs.cache
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.exe.manifest
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.application
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.csproj.CopyComplete
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.exe
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.pdb
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\VKR_BaranovDO.exe.config
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\VKR_BaranovDO.exe.manifest
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\VKR_BaranovDO.application
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\VKR_BaranovDO.exe
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\VKR_BaranovDO.pdb
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\Database.dll
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\Google.Protobuf.dll
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\Renci.SshNet.dll
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\Database.pdb
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\MySql.Data.xml
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.csprojAssemblyReference.cache
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddClient.resources
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddCompeletedWork.resources
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddOrder.resources
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddPosting.resources
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddProduct.resources
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddTovar.resources
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Clients.resources
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.EditCompletedWork.resources
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Login.resources
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.MainForm.resources
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Orders.resources
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Properties.Resources.resources
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Registration.resources
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectClient.resources
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectProduct.resources
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Suppliers.resources
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Warehouse.resources
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.csproj.GenerateResource.cache
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.exe.manifest
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.application
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.csproj.CopyComplete
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.exe
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.pdb
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectTovar.resources
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.LookPosting.resources
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.CompletedWork.resources
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddTovars.resources
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectCountAndPrice.resources
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectCountTovar.resources
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddGroup.resources
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddBrand.resources
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddModel.resources
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.csproj.ResolveComReference.cache
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddExecutor.resources
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Executors.resources
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Managers.resources
+C:\Users\Daniil\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Users.resources
+E:\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\VKR_BaranovDO.exe.config
+E:\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\VKR_BaranovDO.exe.manifest
+E:\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\VKR_BaranovDO.application
+E:\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\VKR_BaranovDO.exe
+E:\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\VKR_BaranovDO.pdb
+E:\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\Database.dll
+E:\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\Google.Protobuf.dll
+E:\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\Renci.SshNet.dll
+E:\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\BouncyCastle.Crypto.dll
+E:\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\Database.pdb
+E:\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\MySql.Data.xml
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.csprojAssemblyReference.cache
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.csproj.ResolveComReference.cache
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddBrand.resources
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddClient.resources
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddCompeletedWork.resources
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddExecutor.resources
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddGroup.resources
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddModel.resources
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddOrder.resources
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddPosting.resources
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddProduct.resources
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddTovar.resources
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddTovars.resources
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Clients.resources
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.CompletedWork.resources
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.EditCompletedWork.resources
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Executors.resources
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Login.resources
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.LookPosting.resources
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.MainForm.resources
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Managers.resources
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Orders.resources
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Properties.Resources.resources
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Registration.resources
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectClient.resources
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectCountAndPrice.resources
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectCountTovar.resources
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectProduct.resources
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectTovar.resources
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Suppliers.resources
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Users.resources
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Warehouse.resources
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.csproj.GenerateResource.cache
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.csproj.CoreCompileInputs.cache
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.exe.manifest
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.application
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.csproj.CopyComplete
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.exe
+E:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.pdb
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.csproj.ResolveComReference.cache
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddBrand.resources
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddExecutor.resources
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddGroup.resources
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddModel.resources
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddTovars.resources
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.CompletedWork.resources
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Executors.resources
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.LookPosting.resources
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Managers.resources
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectCountAndPrice.resources
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectCountTovar.resources
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectTovar.resources
+M:\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Users.resources
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\VKR_BaranovDO.exe.config
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\VKR_BaranovDO.exe.manifest
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\VKR_BaranovDO.application
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\VKR_BaranovDO.exe
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\VKR_BaranovDO.pdb
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\Database.dll
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\MySql.Data.dll
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\Google.Protobuf.dll
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\Renci.SshNet.dll
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\Database.pdb
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\MySql.Data.xml
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.csprojAssemblyReference.cache
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.csproj.ResolveComReference.cache
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddBrand.resources
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddClient.resources
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddCompeletedWork.resources
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddGroup.resources
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddModel.resources
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddOrder.resources
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddPosting.resources
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddProduct.resources
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddTovar.resources
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddTovars.resources
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Clients.resources
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.CompletedWork.resources
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.EditCompletedWork.resources
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Executors.resources
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Login.resources
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.LookPosting.resources
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.MainForm.resources
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Managers.resources
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Orders.resources
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Properties.Resources.resources
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Registration.resources
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectClient.resources
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectCountAndPrice.resources
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectCountTovar.resources
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectProduct.resources
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectTovar.resources
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Suppliers.resources
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Users.resources
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Warehouse.resources
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.csproj.GenerateResource.cache
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.exe.manifest
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.application
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.csproj.CopyComplete
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.exe
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.pdb
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectGoodsInStock.resources
+C:\Users\Даниил\Desktop\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Reports.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\VKR_BaranovDO.exe.config
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\VKR_BaranovDO.exe.manifest
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\VKR_BaranovDO.application
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\VKR_BaranovDO.exe
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\VKR_BaranovDO.pdb
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\Database.dll
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\MySql.Data.dll
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\Google.Protobuf.dll
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\Renci.SshNet.dll
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\Database.pdb
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\MySql.Data.xml
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.csprojAssemblyReference.cache
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.csproj.ResolveComReference.cache
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddBrand.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddClient.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddCompeletedWork.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddGroup.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddModel.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddOrder.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddPosting.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddProduct.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddTovar.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddTovars.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Clients.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.CompletedWork.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.EditCompletedWork.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Executors.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Login.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.LookPosting.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.MainForm.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Managers.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Orders.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Properties.Resources.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Registration.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Reports.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectClient.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectCountAndPrice.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectCountTovar.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectGoodsInStock.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectProduct.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectTovar.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Suppliers.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Users.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Warehouse.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.csproj.GenerateResource.cache
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.exe.manifest
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.application
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.csproj.CopyComplete
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.exe
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.pdb
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddMoving.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.LookMoving.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.WaitingTovar.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddWriteoffgoods.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.LookWriteoffgoods.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.ChangePassword.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\VKR_BaranovDO.exe.config
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\VKR_BaranovDO.exe.manifest
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\VKR_BaranovDO.application
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\VKR_BaranovDO.exe
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\VKR_BaranovDO.pdb
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\Database.dll
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\MySql.Data.dll
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\Google.Protobuf.dll
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\Renci.SshNet.dll
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\Database.pdb
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\bin\Debug\MySql.Data.xml
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.csprojAssemblyReference.cache
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.csproj.ResolveComReference.cache
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddBrand.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddClient.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddCompeletedWork.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddGroup.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddModel.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddMoving.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddOrder.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddPosting.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddProduct.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddTovar.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddTovars.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddWriteoffgoods.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.ChangePassword.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Clients.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.CompletedWork.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.EditCompletedWork.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Executors.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Login.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.LookMoving.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.LookPosting.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.LookWriteoffgoods.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.MainForm.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Managers.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Orders.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Properties.Resources.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Registration.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Reports.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectClient.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectCountAndPrice.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectCountTovar.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectGoodsInStock.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectProduct.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.SelectTovar.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Suppliers.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Users.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.WaitingTovar.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.Warehouse.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.csproj.GenerateResource.cache
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.exe.manifest
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.application
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.csproj.CopyComplete
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.exe
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.pdb
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddReturnSupplier.resources
+C:\Users\Даниил\Desktop\Диплом проект — копия\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.LookReturnSupplier.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.AddReturnSupplier.resources
+C:\Users\Даниил\Desktop\Диплом проект\VKR_BaranovDO\VKR_BaranovDO\obj\Debug\VKR_BaranovDO.LookReturnSupplier.resources
